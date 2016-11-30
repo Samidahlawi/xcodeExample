@@ -8,5 +8,10 @@
 
 import Foundation
 
-print("Hello, World!")
+print("Hello, World!  ")
+
+var a,b :Int
+a = 15
+b = 70
+print(a+b)
 
